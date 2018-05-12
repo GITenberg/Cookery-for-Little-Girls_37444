@@ -1,0 +1,31 @@
+_repo: Cookery-for-Little-Girls_37444
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Foster, Olive Hyde
+    gutenberg_agent_id: '38845'
+    url: http://www.gutenberg.org/2009/agents/38845
+description: The recipes in this book are designed for use by children.
+gutenberg_issued: '2011-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37444'
+  lccn: '10026814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+tableOfContents: Good things for breakfast -- Using odds and ends -- Some easy soups
+  -- Fish, fresh and dried -- Simple meat dishes -- The interesting potato -- Different
+  kinds of vegetables -- For the unexpected guest -- Rice and macaroni -- Baking cake
+  and bread -- Desserts good in summer -- The Thanksgiving dinner -- The Christmas
+  dinner party -- Delicious home-made candies -- Preserving -- Sandwiches and drinks
+  -- A few more desserts.
+title: Cookery for Little Girls
+url: http://www.gutenberg.org/ebooks/37444
