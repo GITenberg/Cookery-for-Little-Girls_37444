@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38845'
     url: http://www.gutenberg.org/2009/agents/38845
 description: The recipes in this book are designed for use by children.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37444#Cookery-for-Little-Girls
 gutenberg_issued: '2011-09-16'
 gutenberg_type: Text
 identifiers:
